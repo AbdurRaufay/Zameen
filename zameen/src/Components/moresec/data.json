@@ -1,0 +1,58 @@
+[
+    {  "id":"1",
+        "image":"../assets/iconNewProjects.png",
+         "title":"New Projects",
+        "details":"The best investment opportunities"
+      
+    },
+    {
+        "id":"2",
+        "image":"../assets/iconHomeLoanCalculator.png",
+    "title":"Home Loan Calculator",
+    "details":"Find affordable Loan packages"
+ 
+    },
+    {
+        "id":"3",
+        "image":"../assets/areaguides.png",
+    "title":"Area Guides",
+    "details":"Explore housing society in Pakistan"
+  
+    },
+    {
+        "id":"4",
+        "image":"../assets/iconPlotFinder.png",
+    "title":"Plot finder",
+    "details":"Find plots in any housing society"
+
+    },
+    {
+        "id":"5",
+        "image":"../assets/iconPropertyIndex.png",
+    "title":"Property Index",
+    "details":"Track Changes in real estate prices"
+   
+    },
+    {
+        "id":"6",
+        "image":"assets/areaunitconvertor.png",
+    "title":"Area Unit Convertor",
+    "details":"Convert any area unit instantly"
+   
+    },
+    {
+        "id":"7",
+        "image":"assets/iconLandRecordPages.png",
+    "title":"Land Record Pages",
+    "details":"find out ownershiof any property"
+   
+    },
+    {
+        "id":"8",
+        "image":"../assets/iconPropertyTrends.png",
+    "title":"Property Trends",
+    "details":"Find popular areas to buy property"
+     
+    }
+    
+]

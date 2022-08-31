@@ -1,0 +1,20 @@
+
+.main-heading{    
+    margin-top: 3.3rem;
+    font-size: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: -3px;
+}
+.wrapper{
+    display: flex;
+}
+
+.border-card{
+    border:none;
+}
+.card-title{
+    color: rgb(80, 79, 79);
+}
+.card-text{
+    color: gray;
+}
